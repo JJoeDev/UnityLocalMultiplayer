@@ -11,14 +11,14 @@ Start of by making a new action map and adding your controlls. (we will use this
 
 After making all the controlls, make a controll scheme for each controller (I will use WASD and Arrows on the same keyboard).
 
-// image
+![image](Assets/S2.png)
 
 ### Player scripts
 
 Now add the PlayerInput script to your players and set the Actions to the action map you just made.
 Then change the behavior to "Invoke Unity Events".
 
-/7 image
+![image](Assets/S3.png)
 
 After that is done we will create the player script. I will simply use a rigidbody2D for the simplicity.
 
@@ -46,7 +46,7 @@ After making this script we can simply add it to the player.
 
 In the PlayerInput script we can now open up the "Events" tab and then the "player" tab (the name of your player object)
 
-// Image
+![image](Assets/S4.png)
 
 Now you can simply press the + and add your player move script like with a simple UI button.
 
