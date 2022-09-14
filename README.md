@@ -13,6 +13,8 @@ After making all the controlls, make a controll scheme for each controller (I wi
 
 // image
 
+### Player scripts
+
 Now add the PlayerInput script to your players and set the Actions to the action map you just made.
 Then change the behavior to "Invoke Unity Events".
 
