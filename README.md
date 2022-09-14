@@ -5,7 +5,7 @@ A small guide to a local multiplayer game in unity
 
 If you want to make a local multiplayer game the easiest way is to use the new input system.
 
-Start of by making a new action map and adding your controlls.
+Start of by making a new action map and adding your controlls. (we will use this for both players. Don't mind the P1)
 
 // IMAGE 
 
