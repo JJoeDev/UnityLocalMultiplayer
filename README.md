@@ -60,6 +60,7 @@ This script is also quite simple
 
 private void Start()
 {
+// Keyboard and Arrows will have to be changed to your controll scheme names
   var player1 = PlayerInput.Instantiate(playerPrefab, controlScheme: "Keyboard", pairWithDevice: Keyboard.current);
   var player2 = PlayerInput.Instantiate(playerPrefab, controlScheme: "Arrows", pairWithDevice: Keyboard.current);
 }
