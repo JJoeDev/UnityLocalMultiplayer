@@ -7,7 +7,7 @@ If you want to make a local multiplayer game the easiest way is to use the new i
 
 Start of by making a new action map and adding your controlls. (we will use this for both players. Don't mind the P1)
 
-// IMAGE 
+![image](Assets/S1.png)
 
 After making all the controlls, make a controll scheme for each controller (I will use WASD and Arrows on the same keyboard).
 
